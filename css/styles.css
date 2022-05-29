@@ -1,0 +1,197 @@
+body, .page01, .page02 {
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    
+    
+}   
+ul{
+    margin: 0;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 20px; 
+}
+
+.full-body{
+    /*border: 3px solid blue;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 15px;
+    margin: 0;
+}
+
+/* NAV BAR */
+
+.header {
+   /* border: 2px solid red;*/
+    display: flex;
+    justify-content: space-between;
+    margin:0;
+    padding-top: 10px;
+}
+
+.music-link, .tour-link, .twitter-link, .insta-link, .fb-link, .yt-link {
+    color:gray;
+    text-decoration: none;
+}
+
+.music-link:hover, .tour-link:hover, .twitter-link:hover,
+.insta-link:hover, .fb-link:hover, .yt-link:hover {
+    color:rgb(227, 154, 20);
+}
+
+/* oklama.html MAIN CONTENT */
+
+.main {
+    /*border: 2px solid green;*/
+    display: flex;
+    height:600px;
+    margin: 0;   
+}
+
+
+/* folders */
+
+.fld {
+    width:65px;
+    height:65px;
+}
+
+.master{
+    position: absolute;
+    top:10%;
+    left:55%;
+}
+
+.nu-container {
+    /*border:5px solid pink; */
+     display:inline inline-block;
+     position: absolute;
+     top: 65%;
+     left: 60%;
+     
+ }
+
+ .nu-title {
+     position: relative;
+     right: 10px;
+     bottom: 19px;
+     
+ }
+
+ .nu {
+     font-weight: normal;
+ }
+
+.step {
+    /* border: 5px solid green; */
+     position: absolute;
+     top:45%;
+     left:20%;
+ }
+ 
+ .mm {
+     width:85px;
+     height:85px;
+ 
+     position: absolute;
+     top:43%;
+     left:47%;
+     right: 50%;
+ }
+
+ /* FOOTER */
+ .footer{
+    /*border: 2px solid purple;*/
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 7px;
+    color: gray;
+}
+
+/*nu thoughts styles*/
+p {
+    margin-top:0;
+    font-size: 16px;
+}
+
+/*master - page 01*/
+#page01 {
+    background-color: black;
+    margin: 20px;
+
+}
+
+.masterimg {
+   margin-top: 20px;
+    width:300px;
+}
+
+
+.nav-arrow {
+    color:white;
+    text-decoration:none;
+}
+
+/*step - page 02*/
+#page02 {
+    background-color:black;
+    margin:20px;
+
+}
+
+.stepimg {
+    width:60%;
+}
+
+h4{
+    color:white;
+    font-weight: normal;
+    font-size:larger;
+    font-family:'Times New Roman', Times, serif;
+}
+
+/*nu thoughts - page 03*/
+#page03 {
+    background-color:black;
+    margin:20px;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    word-spacing: 2.5px;
+
+}
+
+.oklamathought {
+    margin-right: 70%;
+    text-align: left;
+}
+
+.kennypic{
+    width:15%;
+    position: absolute;
+    left:100px;
+}
+
+h5 {
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+/*tour - page 04*/
+#page04 {
+    background-color:black;
+    margin:20px;
+    color:white;
+}
+
+.tour-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    margin-bottom: 100px;
+}
