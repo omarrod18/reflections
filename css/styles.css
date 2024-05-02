@@ -85,14 +85,12 @@ ul{
  }
 
  .home {
-     position: relative;
-     right: 35px;
-     top: 60px;
+     position: absolute;
+     top: 15%;
+     right: 60%;
      
  }
 
- .home {
-     font-weight: normal;
  }
 
 .step {
