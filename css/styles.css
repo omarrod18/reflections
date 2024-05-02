@@ -96,7 +96,7 @@ ul{
 
 .step {
     /* border: 5px solid green; */
-     position: absolute;
+     position: relative;
      top:35%;
      left:15%;
  }
