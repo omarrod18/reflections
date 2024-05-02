@@ -73,14 +73,25 @@ ul{
      
  }
 
- .nu-title {
+ .homies {
      position: relative;
      right: 10px;
      bottom: 19px;
      
  }
 
- .nu {
+ .homies {
+     font-weight: normal;
+ }
+
+ .home {
+     position: relative;
+     right: 35px;
+     top: 60px;
+     
+ }
+
+ .home {
      font-weight: normal;
  }
 
