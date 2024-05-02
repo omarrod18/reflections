@@ -86,11 +86,12 @@ ul{
 
  .home {
      position: absolute;
-     top: 5%;
+     top: 75%;
      right: 15%;
      
  }
-
+ .home {
+     font-weight: normal;
  }
 
 .step {
