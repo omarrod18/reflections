@@ -85,7 +85,7 @@ ul{
  }
 
  .home {
-     position: absolute;
+     position: relative;
      top: 75%;
      right: 15%;
      
