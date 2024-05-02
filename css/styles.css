@@ -97,8 +97,8 @@ ul{
 .step {
     /* border: 5px solid green; */
      position: absolute;
-     top:45%;
-     left:20%;
+     top:35%;
+     left:15%;
  }
  
  .mm {
@@ -114,7 +114,7 @@ ul{
  /* FOOTER */
  .footer{
     /*border: 2px solid purple;*/
-    display: absolulute;
+    display: absolute;
     justify-content: center;
     gap: 10px;
     padding-top: 7px;
