@@ -86,8 +86,8 @@ ul{
 
  .home {
      position: absolute;
-     top: 15%;
-     right: 60%;
+     top: 5%;
+     right: 15%;
      
  }
 
@@ -113,7 +113,7 @@ ul{
  /* FOOTER */
  .footer{
     /*border: 2px solid purple;*/
-    display: flex;
+    display: absolulute;
     justify-content: center;
     gap: 10px;
     padding-top: 7px;
