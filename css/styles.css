@@ -172,6 +172,15 @@ h4{
 
 }
 
+#page05 {
+    background-color:black;
+    margin:20px;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    word-spacing: 2.5px;
+
+}
+
 .oklamathought {
     margin-right: 70%;
     text-align: left;
